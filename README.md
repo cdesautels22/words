@@ -1,2 +1,2 @@
 # words
-1000 Words Challenge
+1000 Word Challenge
